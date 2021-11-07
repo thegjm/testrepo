@@ -1,0 +1,109 @@
+# Opalia - Havoc - 2021-08-03 20:39 - US/Executus
+# SimC Addon 9.1.0-01
+# Requires SimulationCraft 910-01 or newer
+
+demonhunter="Opalia"
+level=60
+race=night_elf
+region=us
+server=executus
+role=attack
+professions=herbalism=125/inscription=65
+talents=1133121
+spec=havoc
+
+covenant=night_fae
+# soulbind=niya:1,322721/281:1:0/342270/134:1:0/320687/283:5:0
+soulbind=dreamweaver:2,319217/132:8:0/281:1:0/319211/284:5:0/130:5:0/319216/319191/150:7:0
+# conduits_available=150:7/151:5/152:8/153:1/281:1/284:5/134:1/135:5/138:5/145:7/130:5/131:5/132:8/179:3/180:7/283:5
+renown=44
+
+head=,id=186292,bonus_id=7189/6652/1472/6646
+neck=,id=178927,gem_id=173129,bonus_id=7043/6717/6649/6650/1507/6935
+shoulder=,id=186757,bonus_id=7692/6652/1472/6646
+back=,id=185905,bonus_id=7693/6652/1479/6646
+chest=,id=186756,bonus_id=7692/6652/1472/6646
+wrist=,id=186297,bonus_id=7189/6652/7574/1472/6646
+hands=,id=186295,bonus_id=7189/6652/1472/6646
+waist=,id=186738,bonus_id=7692/6652/7575/1472/6646
+legs=,id=172254,bonus_id=6893/7461,drop_level=60,crafted_stats=40/36
+feet=,id=186337,bonus_id=7189/6652/1472/6646
+finger1=,id=186377,bonus_id=7189/6652/7574/1472/6646
+finger2=,id=186375,bonus_id=7189/6652/7574/1472/6646
+trinket1=,id=186423,bonus_id=7186/6652/1459/6646
+trinket2=,id=178771,bonus_id=7602/7359/6652/1547/6646
+main_hand=,id=180095,enchant_id=6228,bonus_id=7636/7359/6652/1566/6646
+off_hand=,id=186384,bonus_id=7189/6652/1472/6646
+
+### Gear from Bags
+#
+# Shadebound Helm (200)
+# head=,id=172253,bonus_id=6893/7183,drop_level=60,crafted_stats=49/36
+#
+# Quick Oxxein Necklace (200)
+# neck=,id=173146,gem_id=153708,bonus_id=7183,drop_level=60,crafted_stats=40
+#
+# Weathered Talisman of the Shadowmoon (239)
+# neck=,id=186378,bonus_id=7188/6652/7575/1485/6646
+#
+# Periapt of Pristine Preservation (213)
+# neck=,id=186291,bonus_id=7186/6652/7575/1459/6646
+#
+# Grim-Veiled Cape (225)
+# back=,id=173242,bonus_id=6718/1522
+#
+# Death's Advance Battlefield Drape (1)
+# back=,id=187410
+#
+# Shadowlace Cloak (200)
+# back=,id=173215,bonus_id=6893/7183,drop_level=60,crafted_stats=49/32
+#
+# Oakheart Vestment (155)
+# chest=,id=179774,bonus_id=7195/1472/6616
+#
+# Fate-Threaded Bindings (226)
+# wrist=,id=186335,bonus_id=7189/6652/7574/1472/6646
+#
+# Oakheart Armguards (164)
+# hands=,id=179767,bonus_id=7196/1481/6616
+#
+# Mawsworn Assassin's Breeches of the Peerless (160)
+# legs=,id=186117,bonus_id=7452/1687,drop_level=60
+#
+# Mawsworn Lieutenant's Treads (207)
+# feet=,id=187376,bonus_id=7693/6652/1479/6646
+#
+# Oakheart Anklewraps (171)
+# feet=,id=179766,bonus_id=7197/1488/6616
+#
+# Sworn Oath of the Nine (226)
+# finger1=,id=186290,bonus_id=7189/6652/7575/1472/6646
+#
+# Soul-Seeker's Ring (207)
+# finger1=,id=185903,bonus_id=7693/6652/7574/1479/6646
+#
+# Stolen Maw Badge (146)
+# trinket1=,id=175731,bonus_id=6707/6901,drop_level=59
+#
+# Vault Guardian's Warglaive (200)
+# main_hand=,id=186769,bonus_id=7692/6652/1472/6646
+#
+# Powered Piscine Procurement Pole (40)
+# main_hand=,id=168804
+#
+# Vault Guardian's Warglaive (200)
+# off_hand=,id=186769,bonus_id=7692/6652/1472/6646
+
+### Weekly Reward Choices
+#
+# Gloves of Obscure Rituals
+# hands=,id=178757,bonus_id=7607/7359/6652/1563/6646
+#
+# Elethium-Bladed Glaive
+# main_hand=,id=186381,bonus_id=7188/6652/1485/6646
+#
+# Daschla's Defiant Treads
+# feet=,id=186299,bonus_id=7189/6652/1472/6646
+#
+# Smuggler's Plundered Pauldrons
+# shoulder=,id=186298,bonus_id=7189/43/1472/6646
